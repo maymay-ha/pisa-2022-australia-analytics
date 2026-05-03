@@ -1,0 +1,17 @@
+# Raw PISA / survey files — obtain from OECD; keep out of Git (size & terms of use)
+*.csv
+*.sav
+*.SAV
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
